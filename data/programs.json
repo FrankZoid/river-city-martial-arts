@@ -1,0 +1,42 @@
+{
+  "programs_intro": "Programs are organized by age and experience so students can build skills with clear instruction and steady progression.",
+  "programs": [
+    {
+      "program_name": "Little Dragons",
+      "ages": "5-7",
+      "description": "An introductory class focused on listening, balance, coordination, and basic martial arts skills.",
+      "pricing": "$109 per month"
+    },
+    {
+      "program_name": "Kids Martial Arts",
+      "ages": "8-12",
+      "description": "A structured program that builds confidence, focus, discipline, and age-appropriate technique.",
+      "pricing": "$129 per month"
+    },
+    {
+      "program_name": "Teen and Adult Fundamentals",
+      "ages": "13+",
+      "description": "A beginner-friendly class covering stance, movement, striking basics, partner drills, and conditioning.",
+      "pricing": "$139 per month"
+    },
+    {
+      "program_name": "Teen and Adult All Levels",
+      "ages": "13+",
+      "description": "Ongoing training for students who want consistent practice, skill development, and progression.",
+      "pricing": "$149 per month"
+    },
+    {
+      "program_name": "Private Lessons",
+      "ages": "All ages",
+      "description": "One-on-one instruction for extra support, technique review, or schedule flexibility.",
+      "pricing": "$60 for 30 minutes or $100 for 60 minutes"
+    },
+    {
+      "program_name": "Self-Defense Workshop",
+      "ages": "Adults",
+      "description": "A practical introductory workshop focused on awareness, simple self-defense concepts, and controlled drills.",
+      "pricing": "$35 per workshop"
+    }
+  ],
+  "pricing_note": "Monthly tuition and private lesson rates are sample figures for this test asset set. Final pricing can vary by program, family plan eligibility, and promotions."
+}

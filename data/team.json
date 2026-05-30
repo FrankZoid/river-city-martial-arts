@@ -1,0 +1,25 @@
+{
+  "team_intro": "Our instructors work with students of different ages and experience levels in a respectful, encouraging environment.",
+  "team_members": [
+    {
+      "name": "Daniel Kim",
+      "title": "Head Instructor",
+      "specialties": ["Beginner foundations", "Teen and adult training", "Leadership development"]
+    },
+    {
+      "name": "Tia Monroe",
+      "title": "Kids Program Instructor",
+      "specialties": ["Youth confidence building", "Little Dragons", "Basic skills instruction"]
+    },
+    {
+      "name": "Marcus Ellis",
+      "title": "Instructor",
+      "specialties": ["Teen and adult fundamentals", "Self-defense workshops", "Conditioning"]
+    },
+    {
+      "name": "Sofia Ramos",
+      "title": "Instructor",
+      "specialties": ["Beginner support", "Classroom structure", "Technique review"]
+    }
+  ]
+}

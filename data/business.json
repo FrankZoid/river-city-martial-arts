@@ -1,0 +1,23 @@
+{
+  "business_name": "River City Martial Arts Academy",
+  "one_line_description": "Family-friendly martial arts studio offering kids' classes, teen and adult training, beginner programs, self-defense, and leadership development.",
+  "address": {
+    "street": "1842 West Broad Street",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23220"
+  },
+  "phone": "(804) 555-6118",
+  "email": "hello@rivercitymartialarts.com",
+  "hours": {
+    "monday": "3:30 PM - 8:30 PM",
+    "tuesday": "3:30 PM - 8:30 PM",
+    "wednesday": "3:30 PM - 8:30 PM",
+    "thursday": "3:30 PM - 8:30 PM",
+    "friday": "3:30 PM - 7:00 PM",
+    "saturday": "9:00 AM - 1:00 PM",
+    "sunday": "Closed"
+  },
+  "walk_in_policy": "Prospective students are welcome to stop by, but free intro classes should be scheduled in advance.",
+  "holiday_note": "Holiday hours may vary. Please call ahead before visiting on major holidays."
+}

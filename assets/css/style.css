@@ -475,6 +475,7 @@ img {
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: 8px;
+  display: block;
 }
 
 /* Grid Cards (General) */
